@@ -1,0 +1,74 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    height: 72px;
+    background-color: #29487d;
+}
+.logo{
+    color: white;
+    float: left;
+}
+.menu{
+float:right;
+color: white;
+padding-top: 10px;
+}
+.inputone{
+   display: inline-block;
+   
+}
+.inputone input{
+    padding: 5px 15px;
+}
+.button{
+    background-color:#4267b2;
+    border-color:#29487d;
+    color: white;
+    padding: 7px 10px;
+    border-radius: 5px;
+}
+.button:hover{
+background-color: #365899;
+}
+.clerfix{
+    width: 965px;
+    margin:0 auto;
+}
+.content{
+    width: 100%;
+}
+.left{
+    float: left;
+    width: 565px;
+    padding-top: 20px;
+}
+.right{
+    width: 400px;
+    float:right;
+}
+.input1{
+    width: 186px;
+    padding: 12px;
+    margin: 8px 0;
+}
+.input2{
+    width: 377px;
+    padding: 12px;
+    margin: 8px 0;
+}
+select{
+    padding: 8px;
+}
+.radio{
+    margin:15px;
+}
+.kaydol{
+    padding: 10px 45px;
+    margin-top: 15px;
+    background-color: #69a74e;
+    border-radius: 5px;
+    border-color: #3b6e3b;
+}
